@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\GamerTech\\Desktop\\QFC\\Source\\QFC\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC\\QFC.211.rsp",
+		"directory": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\GamerTech\\Desktop\\QFC\\Source\\QFC\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC\\QFC.211.rsp",
+		"directory": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\GamerTech\\Desktop\\QFC\\Source\\QFC\\QFC.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC\\QFC.211.rsp",
+		"directory": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\GamerTech\\Desktop\\QFC\\Source\\QFC\\QFC.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC\\QFC.211.rsp",
+		"directory": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\GamerTech\\Desktop\\QFC\\Source\\QFC\\QFC.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC\\QFC.211.rsp",
+		"directory": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Source"
+	}
+]

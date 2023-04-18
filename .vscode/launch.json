@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch QFC (Debug)",
+			"request": "launch",
+			"program": "C:\\Users\\GamerTech\\Desktop\\QFC\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "QFC Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFC (DebugGame)",
+			"request": "launch",
+			"program": "C:\\Users\\GamerTech\\Desktop\\QFC\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "QFC Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFC (Development)",
+			"request": "launch",
+			"program": "C:\\Users\\GamerTech\\Desktop\\QFC\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "QFC Win64 Development Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFC (Test)",
+			"request": "launch",
+			"program": "C:\\Users\\GamerTech\\Desktop\\QFC\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "QFC Win64 Test Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFC (Shipping)",
+			"request": "launch",
+			"program": "C:\\Users\\GamerTech\\Desktop\\QFC\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "QFC Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFCEditor (Debug)",
+			"request": "launch",
+			"program": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "QFCEditor Win64 Debug Build",
+			"args": [
+				"C:\\Users\\GamerTech\\Desktop\\QFC\\QFC.uproject"
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFCEditor (DebugGame)",
+			"request": "launch",
+			"program": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "QFCEditor Win64 DebugGame Build",
+			"args": [
+				"C:\\Users\\GamerTech\\Desktop\\QFC\\QFC.uproject"
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch QFCEditor (Development)",
+			"request": "launch",
+			"program": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "QFCEditor Win64 Development Build",
+			"args": [
+				"C:\\Users\\GamerTech\\Desktop\\QFC\\QFC.uproject"
+			],
+			"cwd": "F:\\EpicStoreGames\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "F:\\EpicStoreGames\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "F:\\EpicStoreGames\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\GamerTech\\Desktop\\QFC\\QFC.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "F:\\EpicStoreGames\\UE_5.0"
+		}
+	]
+}

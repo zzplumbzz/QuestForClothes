@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "QFCEditor Editor Win64 Development (QFC)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_QFC.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\GamerTech\\Desktop\\QFC\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
